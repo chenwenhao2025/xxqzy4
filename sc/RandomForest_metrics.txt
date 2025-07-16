@@ -1,0 +1,6 @@
+best_params: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 200}
+best_score: -1179.659604106204
+MSE: 557.2167621269112
+RMSE: 23.60543924876026
+R2: 0.9243411118209419
+Train_R2: 0.9499338936458456

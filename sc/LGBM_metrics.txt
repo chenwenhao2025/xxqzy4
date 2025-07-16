@@ -1,0 +1,6 @@
+best_params: {'learning_rate': 0.1, 'max_depth': 10, 'min_child_samples': 20, 'n_estimators': 200, 'num_leaves': 41}
+best_score: -1349.6141067757148
+MSE: 720.9891329900252
+RMSE: 26.85124080913255
+R2: 0.9021041004168783
+Train_R2: 0.9376502931588693
